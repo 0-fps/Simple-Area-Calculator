@@ -37,6 +37,6 @@ int main (){
 		r = b * h / 2;
 		printf("The area of Rhombus is: %f", r);
 	}else{
-		printf("You need to put a valid geometric shape, in minus. (triangle, circle, rhombus, rectangle, square)")
+		printf("You need to put a valid geometric shape, in minus. (triangle, circle, rhombus, rectangle, square)");
 	}
 }

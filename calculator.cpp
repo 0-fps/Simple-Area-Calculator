@@ -6,9 +6,6 @@ int main (){
 	
 	float b = 0, h = 0, r = 0;
 	char ef[9], cir[] = "circle", rec[] = "rectangle", tri[] = "triangle", squ[]= "square", rho[] ="rhombus";
-	bool t=true;
-	
-	
 	printf("Place the geometric shape, which you want to calculate the area \n");
 	scanf("%s", &ef);
 	if(strcmp(ef, cir) == 0){
